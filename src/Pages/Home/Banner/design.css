@@ -1,0 +1,11 @@
+  .heading{
+    position: absolute;
+    top: 50%;
+    left: 50%; 
+    transform: translateY(-50%) translateX(-50%);
+    font-size:35px;
+    text-shadow: 2px 5px 5px rgb(61, 55, 55),
+    2px 5px 5px rgb(66, 61, 61);
+    color :rgb(163, 222, 233);
+    font-family:serif;
+  }
